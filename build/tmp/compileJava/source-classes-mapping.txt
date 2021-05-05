@@ -1,5 +1,0 @@
-ru/tcreator/Main.java
- ru.tcreator.Main
- ru.tcreator.Main$1
-ru/tcreator/Employee.java
- ru.tcreator.Employee
